@@ -1,0 +1,3 @@
+
+@interface PKResourceURLProtocol : NSURLProtocol
+@end
